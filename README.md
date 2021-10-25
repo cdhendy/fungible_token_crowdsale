@@ -38,7 +38,7 @@ After purchasing tokens with test accounts, viewing the total supply of minted t
 
 ![wei raised](evaluation_evidence\wei_raised.png)
 
-![compiled and deployed contracts](evaluation_evidence\compiled_and_deployed.png)
+![compiled and deployed contracts](evaluation_evidence/compiled_and_deployed.png)
 
 
 ---
