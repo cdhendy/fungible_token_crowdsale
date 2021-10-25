@@ -28,15 +28,15 @@ Make sure to download Ganash prior to installing this project. Also make sure yo
 
 Deployment of the contract to a local blockchain with Remix, MetaMask, and Ganache
 
-![deployment](evaluation_evidence\deployment.png)
+![deployment](evaluation_evidence/deployment.png)
 
 Using test accounts to buy new tokens from the crowdsale and then checking the balances associated with the test accounts.
 
-![transfering some wei](evaluation_evidence\raisingweiandtransfering.png)
+![transfering some wei](evaluation_evidence/raisingweiandtransfering.png)
 
 After purchasing tokens with test accounts, viewing the total supply of minted tokens and the amount of wei that has been raised by the crowdsale.
 
-![wei raised](evaluation_evidence\wei_raised.png)
+![wei raised](evaluation_evidence/wei_raised.png)
 
 ![compiled and deployed contracts](evaluation_evidence/compiled_and_deployed.png)
 
